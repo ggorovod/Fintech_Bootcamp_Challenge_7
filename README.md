@@ -48,7 +48,10 @@ to open web application using Voila input the following code into your terminal:
 
 Voila results:
 
-![video](voila_result.mp4)
+
+https://user-images.githubusercontent.com/111473898/206113234-939b1328-58da-4f79-9b7f-ebcbc012162f.mp4
+
+
 
 # Contributors
 
